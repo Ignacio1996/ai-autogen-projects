@@ -1,3 +1,4 @@
+// remove this comment, and rename the file to OAI_CONFIG_LIST
 [
     {
         "model": "gpt-3.5-turbo",
